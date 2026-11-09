@@ -5,11 +5,10 @@ Backend Developer focado em arquitetura, performance e visão de produto.
 Não construo apenas endpoints. 
 Projeto sistemas com separação clara de responsabilidades, tratamento de concorrência e foco em escalabilidade desde a base.
 
-Tenho interesse especial em sistemas financeiros, onde consistência, previsibilidade e clareza arquitetural não são opcionais.
-
 ## ⚙️ Stack Principal
-- Python
+- Python, TypeScript
 - Django & Django REST Framework
+- React, Vite
 - JWT Auth
 - PostgreSQL (modelagem, indexação e otimização de leitura)
 - Redis
@@ -23,6 +22,7 @@ Tenho interesse especial em sistemas financeiros, onde consistência, previsibil
 
 ## 📌 Atualmente aprofundando
 - Sistemas distribuídos
+- Mensageria
 - Consistência e integridade de dados
 - Padrões arquiteturais aplicados ao mundo real
 - Backend baseado em domínio
